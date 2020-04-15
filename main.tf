@@ -1,7 +1,7 @@
 # Terraform state will be stored in S3
 terraform {
   backend "s3" {
-    bucket = "terraform-jenkins-ankit"
+    bucket = "terraform-jenkins-ankit26290"
     key    = "terraform.tfstate"
     region = "ca-central-1"
   }

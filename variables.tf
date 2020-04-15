@@ -4,7 +4,7 @@ variable "instance_count" {
 
 variable "key_name" {
   description = "Private key name to use with instance"
-  default     = "canadakeypair-2621990"
+  default     = "mac-ankit26290ca"
 }
 
 variable "instance_type" {
